@@ -1,19 +1,26 @@
-using Microsoft.AspNetCore.Authorization.Infrastructure;
-using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
-using  MyApp.Models;
+using MVCAPP.Controllers;
+using MVCAPP.Models;
 
+namespace MVCAPP.Controllers
 
-
-namespace MyApp.Controllers
 {
-    public class IsActionReault : Controller
+    public class ItemsController : Controller
     {
         
-        public  IActionReault OverView()
+        
+        
+        public IActionResult Overview() // we cann write ViewResult or ContactResult etc but IActionResult carrya all of this 
         {
-            var item = new Item() {NameAuthorizationRequirement = { Name = "keyboard" };
+            var item = new Items()  { Name = "keyboard" };
             return View(item);
+        }
+
+
+        public IActionResult Edit(int id )
+
+        {
+            return Content("id" + id);    
         }
     }
 }
