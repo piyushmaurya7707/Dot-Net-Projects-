@@ -1,0 +1,10 @@
+1 action parameter
+1- action parameter
+2- Razor Sytax
+@page @models   @using 
+tag helper
+3- EF Core Code-First
+has two  main approaches 1 code 2 database first
+4- data base installition 
+
+//36:00

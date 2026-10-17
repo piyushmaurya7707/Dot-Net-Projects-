@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GdLe5Ra6ss=",
+  "dgSpecHash": "K5NxxaMlV1A=",
   "success": true,
-  "projectFilePath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\MVCAPP\\MVCAPP.csproj",
+  "projectFilePath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\FinanceTracker\\MVCAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Piyush\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Piyush\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

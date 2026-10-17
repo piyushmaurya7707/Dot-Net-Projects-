@@ -4011,11 +4011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\MVCAPP\\MVCAPP.csproj",
+      "projectUniqueName": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\FinanceTracker\\MVCAPP.csproj",
       "projectName": "MVCAPP",
-      "projectPath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\MVCAPP\\MVCAPP.csproj",
+      "projectPath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\FinanceTracker\\MVCAPP.csproj",
       "packagesPath": "C:\\Users\\Piyush\\.nuget\\packages\\",
-      "outputPath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\MVCAPP\\obj\\",
+      "outputPath": "E:\\PIYUSH DESKTOP\\Dot Net projets\\project-1 MVC APP DOT NET ASP CORE\\FinanceTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piyush\\AppData\\Roaming\\NuGet\\NuGet.Config",
